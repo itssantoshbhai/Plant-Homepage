@@ -3,7 +3,7 @@
 ## This is Project-6
 
 Live Link 🔗
-https://crypto-page-pr-5.netlify.app/
+https://plant-homepage-pr-6.netlify.app/
 
 ## SNAP
 
