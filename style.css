@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta&family=Kanit:ital,wght@0,500;1,500&family=Montserrat:wght@800&family=Poppins:wght@600;800;900&display=swap');
+
+body{
+    font-family: Allerta ;
+    overflow-y: hidden;
+}
+
+#navbarMonstera{
+    position: static;
+    display: flex;
+}
+#navFirst{
+    position: relative;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+#navMid{
+    position: relative;
+    display: flex;
+    margin-top: 2%;
+    margin-left: 11%;
+}
+#navMid div h4{
+    position: relative;
+    margin-right:70px;
+}
+#navMid div:first-child{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+#navEnd{
+    position: relative;
+    display: flex;
+    margin-left:8% ;
+    margin-top: 3%;
+}
+#navEnd div img{
+    position: relative;
+    margin-right: 50px;
+}
+#midWhole {
+    display: flex;
+    margin-left: 2%;
+}
+#midWholePart11{
+    position: relative;
+    margin-top: 25%;
+}
+#monstera{
+    position: relative;
+    font-size: 80px;
+    letter-spacing: 3px;
+    font-weight: 10000;
+}
+.mango{
+    position: relative;
+    margin-top: -11%;
+    margin-right: 25%;
+}
+#midWholePart121{
+    position: absolute;
+    margin-left: 3%;
+}
+#midWholePart121 div h1{
+    background-color: rgb(77, 182, 77);
+    padding: 8px 30px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+#midWholePart13{
+    position: absolute;
+    display: flex;
+    margin-right: 50%;
+}
+#midWholePart13 div img{
+    position: relative;
+    margin-top: 40%;
+    height: 50px;
+    margin-left: 7%;
+}
+#midWholePart13 div h4{
+    position: relative;
+    margin-top: -25%;
+    margin-left: 35%;
+    margin-right: 60%;
+}
+#midWholePart13 .text{
+    position: relative;
+    font-size: 10px;
+    margin-left: 35%;
+    margin-top: -5%;
+}
+#imgMain{
+    position: relative;
+    height: 700px;
+    margin-top: 10%;
+    margin-left: -4%;
+}
